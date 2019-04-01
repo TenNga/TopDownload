@@ -25,3 +25,5 @@ This application will be capable of displaying top downloaded list using RSS fee
 	- Custom adepter build to inflate the list with each feeds create from parseApplicaiton.
 	- also contain implementation of view to recycle so that applicaiton will not use much of the memory from phone. 
 
+### Screenshot
+![Image of app screen](https://github.com/TenNga/TopDownload/blob/master/Screenshot_20190401-134408_Top%2010%20Downloader.jpg)
